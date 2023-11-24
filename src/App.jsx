@@ -40,29 +40,18 @@ function App() {
                     About
                   </a>
                 </li>
+
                 <li className="nav-item">
-                  <a href="#section-offer" className="nav-link">
-                    Offer
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a href="#section-menu" className="nav-link">
-                    Menu
-                  </a>
+                  <a href="#section-menu" className="nav-link"></a>
                 </li>
                 <li className="nav-item">
                   <a href="#section-news" className="nav-link">
-                    News
+                    List Makanan
                   </a>
                 </li>
                 <li className="nav-item">
                   <a href="#section-gallery" className="nav-link">
                     Gallery
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a href="#section-contact" className="nav-link">
-                    Contact
                   </a>
                 </li>
               </ul>
@@ -84,17 +73,6 @@ function App() {
                 <h2 className="h5 site-subheading mb-5 site-animate">
                   Come and eat well with our delicious &amp; healthy foods.
                 </h2>
-                <p>
-                  <a
-                    href="https://colorlib.com/"
-                    target="_blank"
-                    className="btn btn-outline-white btn-lg site-animate"
-                    data-toggle="modal"
-                    data-target="#reservationModal"
-                  >
-                    Reservation
-                  </a>
-                </p>
               </div>
             </div>
           </div>
@@ -115,11 +93,6 @@ function App() {
                   with the necessary regelialia. It is a paradisematic country,
                   in which roasted parts of sentences fly into your mouth.
                 </p>
-                <p>
-                  <a href="#" className="btn btn-secondary btn-lg">
-                    Learn More About Us
-                  </a>
-                </p>
               </div>
               <div className="col-md-1" />
               <div
@@ -136,643 +109,18 @@ function App() {
           </div>
         </section>
         {/* END section */}
-        <section className="site-section bg-light" id="section-offer">
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12 text-center mb-5 site-animate">
-                <h4 className="site-sub-title">Our Offers</h4>
-                <h2 className="display-4">Our Offer This Summer</h2>
-                <div className="row justify-content-center">
-                  <div className="col-md-7">
-                    <p className="lead">
-                      Far far away, behind the word mountains, far from the
-                      countries Vokalia and Consonantia, there live the blind
-                      texts.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-12">
-                <div className="owl-carousel site-owl">
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_1.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$19.50</h5>
-                        <h5 className="mt-0 h4">Beef with Sausage</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_2.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$29.50</h5>
-                        <h5 className="mt-0 h4">Egg with Garlic </h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_3.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$11.50</h5>
-                        <h5 className="mt-0 h4">Beef Ribs</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_1.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$33.50</h5>
-                        <h5 className="mt-0 h4">Beef with Sauce</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_2.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$12.50</h5>
-                        <h5 className="mt-0 h4">Fresh Salmon Fish</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_3.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$53.50</h5>
-                        <h5 className="mt-0 h4">Beef Ribs</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_1.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$22.50</h5>
-                        <h5 className="mt-0 h4">Beef with Sauce</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_2.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$39.50</h5>
-                        <h5 className="mt-0 h4">Fresh Salmon Fish</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                  <div className="item">
-                    <div className="media d-block mb-4 text-center site-media site-animate border-0">
-                      <img
-                        src="/public/images/offer_3.jpg"
-                        alt="Free Template by colorlib.com"
-                        className="img-fluid"
-                      />
-                      <div className="media-body p-md-5 p-4">
-                        <h5 className="text-primary">$39.50</h5>
-                        <h5 className="mt-0 h4">Beef Ribs</h5>
-                        <p className="mb-4">
-                          Far far away, behind the word mountains, far from the
-                          countries Vokalia and Consonantia, there live the
-                          blind texts.
-                        </p>
-                        <p className="mb-0">
-                          <a href="#" className="btn btn-primary btn-sm">
-                            Order Now!
-                          </a>
-                        </p>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        {/* END section */}
-        <section className="site-section" id="section-menu">
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12 text-center mb-5 site-animate">
-                <h2 className="display-4">Delicious Menu</h2>
-                <div className="row justify-content-center">
-                  <div className="col-md-7">
-                    <p className="lead">
-                      Far far away, behind the word mountains, far from the
-                      countries Vokalia and Consonantia, there live the blind
-                      texts.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-12 text-center">
-                <ul
-                  className="nav site-tab-nav nav-pills mb-5"
-                  id="pills-tab"
-                  role="tablist"
-                >
-                  <li className="nav-item site-animate">
-                    <a
-                      className="nav-link active"
-                      id="pills-breakfast-tab"
-                      data-toggle="pill"
-                      href="#pills-breakfast"
-                      role="tab"
-                      aria-controls="pills-breakfast"
-                      aria-selected="true"
-                    >
-                      Breakfast
-                    </a>
-                  </li>
-                  <li className="nav-item site-animate">
-                    <a
-                      className="nav-link"
-                      id="pills-lunch-tab"
-                      data-toggle="pill"
-                      href="#pills-lunch"
-                      role="tab"
-                      aria-controls="pills-lunch"
-                      aria-selected="false"
-                    >
-                      Lunch
-                    </a>
-                  </li>
-                  <li className="nav-item site-animate">
-                    <a
-                      className="nav-link"
-                      id="pills-dinner-tab"
-                      data-toggle="pill"
-                      href="#pills-dinner"
-                      role="tab"
-                      aria-controls="pills-dinner"
-                      aria-selected="false"
-                    >
-                      Dinner
-                    </a>
-                  </li>
-                </ul>
-                <div className="tab-content text-left">
-                  <div
-                    className="tab-pane fade show active"
-                    id="pills-breakfast"
-                    role="tabpanel"
-                    aria-labelledby="pills-breakfast-tab"
-                  >
-                    <div className="row">
-                      <div className="col-md-6 site-animate">
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_1.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Salted Fried Chicken</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$35.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_2.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Italian Sauce Mushroom</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$24.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_3.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Fried Potato w/ Garlic</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$14.50</h6>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 site-animate">
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_2.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Italian Sauce Mushroom</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$35.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_1.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Salted Fried Chicken</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$12.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_3.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Fried Potato w/ Garlic</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$18.50</h6>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div
-                    className="tab-pane fade"
-                    id="pills-lunch"
-                    role="tabpanel"
-                    aria-labelledby="pills-lunch-tab"
-                  >
-                    <div className="row">
-                      <div className="col-md-6 site-animate">
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_3.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Fried Potato w/ Garlic</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$14.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_1.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Salted Fried Chicken</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$35.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_2.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Italian Sauce Mushroom</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$24.50</h6>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 site-animate">
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_3.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Fried Potato w/ Garlic</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$18.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_2.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Italian Sauce Mushroom</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$35.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_1.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Salted Fried Chicken</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$12.50</h6>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                  <div
-                    className="tab-pane fade"
-                    id="pills-dinner"
-                    role="tabpanel"
-                    aria-labelledby="pills-dinner-tab"
-                  >
-                    <div className="row">
-                      <div className="col-md-6 site-animate">
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_2.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Italian Sauce Mushroom</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$24.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_1.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Salted Fried Chicken</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$35.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_3.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Fried Potato w/ Garlic</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$14.50</h6>
-                          </div>
-                        </div>
-                      </div>
-                      <div className="col-md-6 site-animate">
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_3.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Fried Potato w/ Garlic</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$18.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_2.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Italian Sauce Mushroom</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$35.50</h6>
-                          </div>
-                        </div>
-                        <div className="media menu-item">
-                          <img
-                            className="mr-3"
-                            src="/public/images/menu_1.jpg"
-                            alt="Free Template by colorlib.com"
-                          />
-                          <div className="media-body">
-                            <h5 className="mt-0">Salted Fried Chicken</h5>
-                            <p>
-                              Far far away, behind the word mountains, far from
-                              the countries Vokalia and Consonantia, there live
-                              the blind texts.
-                            </p>
-                            <h6 className="text-primary menu-price">$12.50</h6>
-                          </div>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </section>
-        {/* END section */}
+
         <section className="site-section bg-light" id="section-news">
           <div className="container">
             <div className="row">
               <div className="col-md-12 text-center mb-5 site-animate">
-                <h2 className="display-4">News</h2>
+                <h2 className="display-4">Makanan Khas Daerah Indonesia</h2>
                 <div className="row justify-content-center">
                   <div className="col-md-7">
                     <p className="lead">
-                      Far far away, behind the word mountains, far from the
-                      countries Vokalia and Consonantia, there live the blind
-                      texts.
+                      Berikut ini adalah makanan khas di setiap daerah di
+                      Indonesia direpresentasikan dari setiap provinsi di
+                      Indonesia
                     </p>
                   </div>
                 </div>
@@ -791,11 +139,6 @@ function App() {
                       countries Vokalia and Consonantia, there live the blind
                       texts.
                     </p>
-                    <p className="mb-0">
-                      <a href="#" className="btn btn-primary btn-sm">
-                        Read More
-                      </a>
-                    </p>
                   </div>
                 </div>
               </div>
@@ -812,11 +155,6 @@ function App() {
                       Far far away, behind the word mountains, far from the
                       countries Vokalia and Consonantia, there live the blind
                       texts.
-                    </p>
-                    <p className="mb-0">
-                      <a href="#" className="btn btn-primary btn-sm">
-                        Read More
-                      </a>
                     </p>
                   </div>
                 </div>
@@ -835,17 +173,13 @@ function App() {
                       countries Vokalia and Consonantia, there live the blind
                       texts.
                     </p>
-                    <p className="mb-0">
-                      <a href="#" className="btn btn-primary btn-sm">
-                        Read More
-                      </a>
-                    </p>
                   </div>
                 </div>
               </div>
             </div>
           </div>
         </section>
+
         {/* END section */}
         <section className="site-section" id="section-gallery">
           <div className="container">
@@ -937,91 +271,7 @@ function App() {
             </div>
           </div>
         </section>
-        {/* END section */}
-        <section className="site-section bg-light" id="section-contact">
-          <div className="container">
-            <div className="row">
-              <div className="col-md-12 text-center mb-5 site-animate">
-                <h2 className="display-4">Get In Touch</h2>
-                <div className="row justify-content-center">
-                  <div className="col-md-7">
-                    <p className="lead">
-                      Far far away, behind the word mountains, far from the
-                      countries Vokalia and Consonantia, there live the blind
-                      texts.
-                    </p>
-                  </div>
-                </div>
-              </div>
-              <div className="col-md-7 mb-5 site-animate">
-                <form action method="post">
-                  <div className="form-group">
-                    <label htmlFor="name" className="sr-only">
-                      Name
-                    </label>
-                    <input
-                      type="text"
-                      className="form-control"
-                      id="name"
-                      placeholder="Name"
-                    />
-                  </div>
-                  <div className="form-group">
-                    <label htmlFor="email" className="sr-only">
-                      Email
-                    </label>
-                    <input
-                      type="text"
-                      className="form-control"
-                      id="email"
-                      placeholder="Email"
-                    />
-                  </div>
-                  <div className="form-group">
-                    <label htmlFor="message" className="sr-only">
-                      Message
-                    </label>
-                    <textarea
-                      name="message"
-                      id="message"
-                      cols={30}
-                      rows={10}
-                      className="form-control"
-                      placeholder="Write your message"
-                      defaultValue={""}
-                    />
-                  </div>
-                  <div className="form-group">
-                    <input
-                      type="submit"
-                      className="btn btn-primary btn-lg"
-                      defaultValue="Send Message"
-                    />
-                  </div>
-                </form>
-              </div>
-              <div className="col-md-1" />
-              <div className="col-md-4 site-animate">
-                <p>
-                  <img
-                    src="/public/images/about_img_1.jpg"
-                    alt
-                    className="img-fluid"
-                  />
-                </p>
-                <p className="text-black">
-                  Address: <br /> 121 Street, Melbourne Victoria <br /> 3000
-                  Australia <br /> <br />
-                  Phone: <br /> 90 987 65 44 <br /> <br />
-                  Email: <br />{" "}
-                  <a href="mailto:info@yoursite.com">info@yoursite.com</a>
-                </p>
-              </div>
-            </div>
-          </div>
-        </section>
-        <div id="map" />
-        {/* END section */}
+
         <footer className="site-footer site-bg-dark site-section">
           <div className="container">
             <div className="row mb-5">
