@@ -107,25 +107,7 @@ function App() {
           </div>
         </section>
         {/* END section */}
-<<<<<<< HEAD
 
-<<<<<<< HEAD
- 
-        <section className="site-section bg-light" id="section-news">
-=======
-        <div className="menu-box">
->>>>>>> ace04c509751006de0a334ee415a07bb4a7d8281
-          <div className="container">
-            <div className="row">
-              <div className="col-lg-12">
-                <div className="heading-title text-center">
-                  <h2>Special Menu</h2>
-                  <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting
-                  </p>
-=======
-        <section className="site-section bg-light" id="section-news">
           <div className="menu-box">
             <div className="container">
               <div className="row">
