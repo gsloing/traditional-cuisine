@@ -107,7 +107,7 @@ function App() {
           </div>
         </section>
         {/* END section */}
-
+    <section className="site-section bg-light" id="section-news">
           <div className="menu-box">
             <div className="container">
               <div className="row">
