@@ -7,7 +7,6 @@ import "./assets/scss/style.scss";
 // import "./assets/css/bootstrap.min.css";
 function App() {
   return (
-    <>
       <div>
         <nav
           className="navbar navbar-expand-lg navbar-dark site_navbar bg-dark site-navbar-light"
@@ -40,7 +39,6 @@ function App() {
                     About
                   </a>
                 </li>
-
                 <li className="nav-item">
                   <a href="#section-menu" className="nav-link"></a>
                 </li>
@@ -110,6 +108,7 @@ function App() {
         </section>
         {/* END section */}
 
+ 
         <section className="site-section bg-light" id="section-news">
           <div className="container">
             <div className="row">
@@ -575,7 +574,6 @@ function App() {
           </svg>
         </div>
       </div>
-    </>
   );
 }
 

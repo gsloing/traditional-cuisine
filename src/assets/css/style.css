@@ -187,7 +187,7 @@ h1, h2, h3, h4, h5,
 }
 
 .site-cover {
-  background-position: center center;
+  background-position: center;
 }
 
 .site-cover .site-heading {
@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5,
 }
 
 .bg-light {
-  background: #darken fafafa, 4% !important;
+  background: darken fafafa, 4% !important;
 }
 
 .site-custom-gutters {
@@ -970,3 +970,4 @@ textarea.form-control {
     stroke-dashoffset: -136px;
   }
 }
+
