@@ -119,7 +119,6 @@ function App() {
                       typesetting
                     </p>
                   </div>
->>>>>>> 0b7e827a6f1bdd16be6375002ef71c7886d4402d
                 </div>
               </div>
               <div className="row inner-menu-box">
