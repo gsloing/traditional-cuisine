@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5,
 }
 
 .bg-light {
-  background: #darken fafafa, 4% !important;
+  background: darken fafafa, 4% !important;
 }
 
 .site-custom-gutters {
@@ -830,6 +830,7 @@ textarea.form-control {
 .mfp-with-zoom.mfp-bg {
   opacity: 0;
   -webkit-backface-visibility: hidden;
+   backface-visibility: hidden;  
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
