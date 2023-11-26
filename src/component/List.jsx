@@ -43,7 +43,7 @@ const List = () => {
                     aria-controls="v-pills-profile"
                     aria-selected="false"
                   >
-                    Drinks
+                    Sumatra
                   </a>
                   <a
                     className="nav-link"
@@ -54,7 +54,7 @@ const List = () => {
                     aria-controls="v-pills-messages"
                     aria-selected="false"
                   >
-                    All
+                    Jawa
                   </a>
                   <a
                     className="nav-link"
@@ -65,7 +65,18 @@ const List = () => {
                     aria-controls="v-pills-profile"
                     aria-selected="false"
                   >
-                    Lunch{/*</a*/}
+                    Kalimantan
+                  </a>
+                  <a
+                    className="nav-link"
+                    id="v-pills-profile-tab"
+                    data-toggle="pill"
+                    href="#v-pills-profile"
+                    role="tab"
+                    aria-controls="v-pills-profile"
+                    aria-selected="false"
+                  >
+                    Sulawesi{/*</a*/}
                   </a>
                   <a
                     className="nav-link"
@@ -76,7 +87,7 @@ const List = () => {
                     aria-controls="v-pills-settings"
                     aria-selected="false"
                   >
-                    Dinner
+                    Papua
                   </a>
                 </div>
               </div>
