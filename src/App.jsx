@@ -140,7 +140,7 @@ function App() {
                       aria-controls="v-pills-home"
                       aria-selected="true"
                     >
-                      All
+                      Sumatra
                     </a>
                     <a
                       className="nav-link"
@@ -151,7 +151,7 @@ function App() {
                       aria-controls="v-pills-profile"
                       aria-selected="false"
                     >
-                      Drinks
+                      Jawa
                     </a>
                     <a
                       className="nav-link"
@@ -162,7 +162,7 @@ function App() {
                       aria-controls="v-pills-messages"
                       aria-selected="false"
                     >
-                      All
+                      Kalimantan
                     </a>
                     <a
                       className="nav-link"
@@ -173,7 +173,7 @@ function App() {
                       aria-controls="v-pills-profile"
                       aria-selected="false"
                     >
-                      Lunch{/*</a*/}
+                      Sulawesi
                     </a>
                     <a
                       className="nav-link"
@@ -184,7 +184,7 @@ function App() {
                       aria-controls="v-pills-settings"
                       aria-selected="false"
                     >
-                      Dinner
+                      Papua
                     </a>
                   </div>
                 </div>
