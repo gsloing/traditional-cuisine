@@ -36,16 +36,15 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/offer_2.jpg"
+              src="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
             <div className="media-body p-md-5 p-4">
-              <h5 className="mt-0 h4">Chef Special Menu</h5>
+              <h5 className="mt-0 h4">Coto Makassar</h5>
+              <h6 className="mt-0 h4">Sulawesi Selatan</h6>
               <p className="mb-4">
-                Far far away, behind the word mountains, far from the
-                countries Vokalia and Consonantia, there live the blind
-                texts.
+              Coto makassar atau Pallu coto mangkasarak adalah hidangan tradisional Suku Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris, lalu dibumbui dengan bumbu yang diracik secara khusus.
               </p>
             </div>
           </div>
@@ -53,16 +52,15 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/offer_3.jpg"
+              src="/public/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
             <div className="media-body p-md-5 p-4">
-              <h5 className="mt-0 h4">Merriage Celebrations</h5>
+              <h5 className="mt-0 h4">Rawon</h5>
+              <h6 className="mt-0 h4">Jawa Timur</h6>
               <p className="mb-4">
-                Far far away, behind the word mountains, far from the
-                countries Vokalia and Consonantia, there live the blind
-                texts.
+              Rawon adalah masakan khas Indonesia yang berasal dari Jawa Timur yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek, Makanan ini telah berusia lebih dari 1.000 Tahun.
               </p>
             </div>
           </div>
