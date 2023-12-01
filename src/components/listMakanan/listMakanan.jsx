@@ -84,7 +84,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/jawa2 (Garang Asem).jpg"
+              src="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
