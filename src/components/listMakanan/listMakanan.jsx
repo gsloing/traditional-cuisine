@@ -65,6 +65,41 @@ const listMakanan = () => {
             </div>
           </div>
         </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Soto Kudus</h5>
+              <h6 className="mt-0 h4">Jawa Tengah</h6>
+              <p className="mb-4">
+              Soto Kudus (Hanacaraka: ꦱꦺꦴꦠꦺꦴ​ꦏꦸꦢꦸꦱ꧀) adalah soto yang berasal dari Kudus, Jawa Tengah . Soto kudus, hampir mirip dengan soto Lamongan, soto kudus berisi suwiran ayam dan taoge. Terkadang soto kudus juga menggunakan daging kerbau. Kuahnya lebih bening.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Batagor</h5>
+              <h6 className="mt-0 h4">Jawa Barat</h6>
+              <p className="mb-4">
+              Batagor adalah hidangan khas Sunda dari Indonesia dan populer di Asia Tenggara, terdiri dari bakso ikan goreng, biasanya disajikan dengan saus kacang. Biasanya dibuat dari daging ikan tenggiri cincang, meskipun jenis lain seperti tuna, ikan kembung, dan udang juga dapat digunakan.
+              </p>
+            </div>
+          </div>
+        </div>
+
+
+
       </div>
     </div>
   </section></div>
