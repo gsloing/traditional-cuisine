@@ -399,6 +399,30 @@ const gallery = () => {
               />
             </a>
           </div>
+          <div className="col-md-4 site-animate">
+            <a
+              href="/public/images/Food-Picture/Papua/papeda-papua.jpg"
+              className="site-thumbnail image-popup"
+            >
+              <img
+                src="/public/images/Food-Picture/Papua/papeda-papua.jpg"
+                alt="Free Template by colorlib.com"
+                className="img-fluid"
+              />
+            </a>
+          </div>
+          <div className="col-md-4 site-animate">
+            <a
+              href="/public/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
+              className="site-thumbnail image-popup"
+            >
+              <img
+                src="/public/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
+                alt="Free Template by colorlib.com"
+                className="img-fluid"
+              />
+            </a>
+          </div>
         </div>
       </div>
     </section>
