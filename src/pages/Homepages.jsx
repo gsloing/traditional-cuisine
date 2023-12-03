@@ -1,4 +1,5 @@
 import About from "../components/About";
+import Footer from "../components/Footer";
 import Gallery from "../components/gallery/Gallery";
 import Header from "../components/Header";
 import List from "../components/List";
@@ -11,6 +12,7 @@ const Homepages = () => {
       <Gallery/>
       <List />
       <ListMakanan/>
+      <Footer/>
     </div>
   );
 };
