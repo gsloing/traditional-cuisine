@@ -1,4 +1,4 @@
-import List from "../component/List";
+import List from "../components/List";
 
 const Homepages = () => {
   return (
