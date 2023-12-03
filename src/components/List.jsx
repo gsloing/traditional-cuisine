@@ -31,7 +31,7 @@ const List = () => {
                     aria-controls="v-pills-home"
                     aria-selected="true"
                   >
-                    All
+                    Preview
                   </a>
                   <a
                     className="nav-link"
@@ -102,126 +102,108 @@ const List = () => {
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-01.jpg"
+                            src="\public\images\Food-Picture\Jawa\batagor(jawa barat).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Drinks 1</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $7.79</h5>
+                            <h4>Batagor</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-02.jpg"
+                            src="\public\images\Food-Picture\Kalimantan\ayam cincane(kalimantan timur).jpeg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Drinks 2</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $9.79</h5>
+                            <h4>Ayam Cincane</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-03.jpg"
+                            src="\public\images\Food-Picture\Sulawesi\tinutuan-sulut.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Drinks 3</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
+                            <h4>Tinutuan(Bubur Manado)  </h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid lunch">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-04.jpg"
+                            src="\public\images\Food-Picture\Sumatra\Bika ambon (sumatera utara).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Lunch 1</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $15.79</h5>
+                            <h4>Bika Ambon</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid lunch">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-05.jpg"
+                            src="\public\images\Food-Picture\Papua\papeda-papua.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Lunch 2</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $18.79</h5>
+                            <h4>Papeda</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid lunch">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-06.jpg"
+                            src="\public\images\Food-Picture\Kalimantan\bubur sambas(kalimantan barat).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Lunch 3</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $20.79</h5>
+                            <h4>Bubur Sambas</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid dinner">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-07.jpg"
+                            src="\public\images\Food-Picture\Maluku\gohu ikan-maluku utara.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Dinner 1</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $25.79</h5>
+                            <h4>Gohu Ikan</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid dinner">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-08.jpg"
+                            src="\public\images\Food-Picture\Papua\sate ulat sagu-sorong.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Dinner 2</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $22.79</h5>
+                            <h4>Sate Ulat Sagu</h4>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid dinner">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-09.jpg"
+                            src="\public\images\Food-Picture\Papua\udang selingkuh-papua pegunungan.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Dinner 3</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $24.79</h5>
+                            <h4>Udang Selingkuh</h4>
                           </div>
                         </div>
                       </div>
@@ -244,8 +226,9 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Bika Ambon</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $7.79</h5>
+                            <p>Saat mendengar nama kue Bika Ambon, mungkin pertanyaan yang seting terlintas di benak Anda adalah
+                             mengapa nama dan asal makanan tersebut berbeda kontras sekali.  Meski menyandang nama Ambon, kue ini tidak berasal dari Ambon, satu propinsi di bagian timur Indonesia, 
+                            tetapi justru berasal dari ibukota Medan, Sumatera Utara. Bika Ambon di kenal sebagai penganan nusantara sebagai kuliner khas Medan, Sumatera Utara.</p>
                           </div>
                         </div>
                       </div>
@@ -259,7 +242,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Gulai Belacan</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $9.79</h5>
                           </div>
                         </div>
                       </div>
@@ -273,7 +255,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Gulai Ikan Patin</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -287,7 +268,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Mie Aceh</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -301,7 +281,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Mie Bangka</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -315,7 +294,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Otak Otak</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -329,7 +307,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Pempek</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -343,7 +320,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Pendap</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -357,7 +333,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Rendang</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -371,7 +346,6 @@ const List = () => {
                           <div className="why-text">
                             <h4>Seruit</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
@@ -389,74 +363,69 @@ const List = () => {
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+                            src="\public\images\Food-Picture\Kalimantan\ayam cincane(kalimantan timur).jpeg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Bika Ambong</h4>
+                            <h4>Ayam Cincane</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $7.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="\public\images\Food-Picture\Sumatra\gulai belacan(riau).png"
+                            src="\public\images\Food-Picture\Kalimantan\bubur sambas(kalimantan barat).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Gulai Belacan</h4>
+                            <h4>Bubur Sambas</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $9.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="/public\images\Food-Picture\Sumatra\gulai ikan patin(jambi).jpg"
+                            src="\public\images\Food-Picture\Kalimantan\juhu umbut rotan (kalteng).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Gulai Ikan Patin</h4>
+                            <h4>Juhu Umbut Rotan</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="\public\images\Food-Picture\Sumatra\Mi aceh(nangroe aceh darusallam).jpg"
+                            src="\public\images\Food-Picture\Kalimantan\sate temburung (kaltara).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Mie Aceh</h4>
+                            <h4>Sate Temburung</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="\public\images\Food-Picture\Sumatra\mi bangka(bangka belitung).jpg"
+                            src="\public\images\Food-Picture\Kalimantan\soto banjar(kalimantan selatan).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Mie Bangka</h4>
+                            <h4>Soto Banjar</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
-                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                      {/* <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
                             src="public\images\Food-Picture\Sumatra\otak otak(kepulauan riau).jpg"
@@ -525,7 +494,7 @@ const List = () => {
                             <h5> $10.79</h5>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   {/* Kalimantan End */}
@@ -540,88 +509,82 @@ const List = () => {
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+                            src="\public\images\Food-Picture\Sulawesi\binte-biluhuta (gorontalo).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Bika Ambonff</h4>
+                            <h4>Binte Biluhuta</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $7.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="\public\images\Food-Picture\Sumatra\gulai belacan(riau).png"
+                            src="\public\images\Food-Picture\Sulawesi\kaledo-sulteng.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Gulai Belacan</h4>
+                            <h4>Kaledo</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $9.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="/public\images\Food-Picture\Sumatra\gulai ikan patin(jambi).jpg"
+                            src="\public\images\Food-Picture\Sulawesi\Kue-Jepa (sulbar).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Gulai Ikan Patin</h4>
+                            <h4>Kue Jepa</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="\public\images\Food-Picture\Sumatra\Mi aceh(nangroe aceh darusallam).jpg"
+                            src="\public\images\Food-Picture\Sulawesi\sate gogos-sultra.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Mie Aceh</h4>
+                            <h4>Sate Gogos</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="\public\images\Food-Picture\Sumatra\mi bangka(bangka belitung).jpg"
+                            src="\public\images\Food-Picture\Sulawesi\sul3(coto-makassar).jpeg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Mie Bangka</h4>
+                            <h4>Coto Makassar</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
-                            src="public\images\Food-Picture\Sumatra\otak otak(kepulauan riau).jpg"
+                            src="\public\images\Food-Picture\Sulawesi\tinutuan-sulut.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Otak Otak</h4>
+                            <h4>Tinutuan (Bubur Manado)</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $10.79</h5>
                           </div>
                         </div>
                       </div>
-                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                      {/* <div className="col-lg-4 col-md-6 special-grid drinks">
                         <div className="gallery-single fix">
                           <img
                             src="\public\images\Food-Picture\Sumatra\pempek(sumatera selatan).jpg"
@@ -676,10 +639,11 @@ const List = () => {
                             <h5> $10.79</h5>
                           </div>
                         </div>
-                      </div>
+                      </div> */}
                     </div>
                   </div>
                   {/* Sulawesi End */}
+                  {/* Jawa Start */}
                   <div
                     className="tab-pane fade"
                     id="v-pills-messages"
@@ -690,47 +654,85 @@ const List = () => {
                       <div className="col-lg-4 col-md-6 special-grid lunch">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-04.jpg"
+                            src="\public\images\Food-Picture\Jawa\batagor(jawa barat).jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Lunch 1</h4>
+                            <h4>Batagor</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $15.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid lunch">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-05.jpg"
+                            src="\public\images\Food-Picture\Jawa\Gudeg jogja.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Lunch 2</h4>
+                            <h4>Gudeg</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $18.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid lunch">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-06.jpg"
+                            src="\public\images\Food-Picture\Jawa\Jawa1 (Soto Kudus).jpeg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Lunch 3</h4>
+                            <h4>Soto Kudus</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $20.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid lunch">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Jawa\jawa8 (Rawon).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Rawon</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid lunch">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Jawa\kerak-telor(dki).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Kerak Telor</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid lunch">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Jawa\kue jojorong (banten).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Kue Jojorong</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
                           </div>
                         </div>
                       </div>
                     </div>
                   </div>
+                  {/* Jawa End */}
+                  {/* Papua Start */}
                   <div
                     className="tab-pane fade"
                     id="v-pills-settings"
@@ -741,46 +743,83 @@ const List = () => {
                       <div className="col-lg-4 col-md-6 special-grid dinner">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-07.jpg"
+                            src="\public\images\Food-Picture\Papua\ikan bakar mnkwr - papua barat.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Dinner 1</h4>
+                            <h4>Ikan Bakar Manokwari</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $25.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid dinner">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-08.jpg"
+                            src="\public\images\Food-Picture\Papua\papeda-papua.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Dinner 2</h4>
+                            <h4>Papeda</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $22.79</h5>
                           </div>
                         </div>
                       </div>
                       <div className="col-lg-4 col-md-6 special-grid dinner">
                         <div className="gallery-single fix">
                           <img
-                            src="images/img-09.jpg"
+                            src="\public\images\Food-Picture\Papua\sagu bagea-papua tengah.jpg"
                             className="img-fluid"
                             alt="Image"
                           />
                           <div className="why-text">
-                            <h4>Special Dinner 3</h4>
+                            <h4>Sagu Bagea</h4>
                             <p>Sed id magna vitae eros sagittis euismod.</p>
-                            <h5> $24.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid dinner">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Papua\sagu sep-papua selatan.jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Sagu Sep</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid dinner">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Papua\sate ulat sagu-sorong.jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Sate Ulat Sagu</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid dinner">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Papua\udang selingkuh-papua pegunungan.jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Udang Selingkuh</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
                           </div>
                         </div>
                       </div>
                     </div>
+                    {/* Papua End */}
                   </div>
                 </div>
               </div>
