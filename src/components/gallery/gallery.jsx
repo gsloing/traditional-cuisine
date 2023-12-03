@@ -29,11 +29,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpg"
+              href="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpg"
+                src="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -41,11 +41,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
+              href="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
+                src="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -125,11 +125,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpg"
+              href="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpg"
+                src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -269,11 +269,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/babi guling bali.jpg"
+              href="/public/images/Food-Picture/babi guling bali.jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/babi guling bali.jpg"
+                src="/public/images/Food-Picture/babi guling bali.jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
