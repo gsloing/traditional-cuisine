@@ -764,7 +764,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Papeda</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Papeda adalah makanan berupa bubur sagu khas Maluku dan Papua yang biasanya disajikan dengan ikan tongkol atau bubara yang dibumbui dengan kunyit. Papeda berwarna putih dan bertekstur lengket menyerupai lem dengan rasa yang tawar.</p>
                           </div>
                         </div>
                       </div>
@@ -777,7 +777,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Sagu Bagea</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Bagea adalah kue tradisional khas Maluku, Maluku Utara, dan Kota Palopo, Sulawesi Selatan, Sulawesi Tenggara, Indonesia. Bagea biasanya berbentuk bulat dan warnanya cokelat pucat. Bagea adalah salah satu olahan dari sagu.</p>
                           </div>
                         </div>
                       </div>
@@ -790,7 +790,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Sagu Sep</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Sagu sep merupakan panganan atau kudapan tradisional khas suku Marind di wilayah Merauke yang memiliki cita rasa yang gurih dan terbuat dari sagu dicampur dengan kelapa</p>
                           </div>
                         </div>
                       </div>
@@ -803,7 +803,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Sate Ulat Sagu</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Sate ulat sagu adalah makanan khas Papua yang berasal dari ulat sagu. Ulat sagu didapatkan dari pohon sagu yang dipotong dan dibiarkan membusuk. Meskipun terlihat menjijikkan, tapi makanan ini kaya akan protein yang cukup tinggi dan cocok dimakan oleh penderita diabetes.</p>
                           </div>
                         </div>
                       </div>
@@ -816,7 +816,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Udang Selingkuh</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Kuliner khas Papua yang satu ini memiliki nama yang unik yaitu udang selingkuh. Dinamakan udang selingkuh karena memiliki bentuk tubuh udang namun memiliki capit seperti kepiting. Jenis udang ini merupakan udang air tawar yang bisa ditemukan di Sungai Baliem, Kabupaten Jayawijaya.</p>
                           </div>
                         </div>
                       </div>
