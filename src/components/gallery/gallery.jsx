@@ -161,6 +161,162 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
+                  href="/public/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Sumatra/gulai belacan(riau).png"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Sumatra/gulai belacan(riau).png"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
                   href=""
                   className="site-thumbnail image-popup"
                 >
