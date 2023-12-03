@@ -87,6 +87,102 @@ const Gallery = () => {
                   />
                 </a>
               </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href="/public/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src="/public/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
+              <div className="col-md-4 site-animate">
+                <a
+                  href=""
+                  className="site-thumbnail image-popup"
+                >
+                  <img
+                    src=""
+                    alt="Free Template by colorlib.com"
+                    className="img-fluid"
+                  />
+                </a>
+              </div>
             </div>
           </div>
         </section>
