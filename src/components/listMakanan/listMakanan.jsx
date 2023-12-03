@@ -529,6 +529,102 @@ const listMakanan = () => {
             </div>
           </div>
         </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Ikan Bakar Manokwari</h5>
+              <h6 className="mt-0 h4">Papua Barat</h6>
+              <p className="mb-4">
+              Ikan Bakar Manokwari merupakan makanan khas Papua Barat. Ikannya menggunakan ikan tongkol berukuran besar. Ikannya dilumuri dengan jeruk lemon, dan garam, sehingga memiliki bumbu khusus karena rasanya berbeda dengan ikan bakar lainnya. Biasanya ketika disajikan akan diberi sambal tumbuk.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Papua/papeda-papua.jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Papeda</h5>
+              <h6 className="mt-0 h4">Papua</h6>
+              <p className="mb-4">
+              Papeda adalah salah satu makanan khas Papua yang paling ikonik dan terkenal. Makanan ini biasa menjadi makanan pokok, sebagai sumber karbohidrat. Padeda memiliki tekstur kental, padat dengan rasa tawar. Makanan ini terbuat pohon sagu yang diperas, disaring dan dimasak.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Kue Sagu Bagea</h5>
+              <h6 className="mt-0 h4">Papua Tengah</h6>
+              <p className="mb-4">
+              Kue bagea sagu merupakan salah satu kue khas Papua yang dibuat dari tepung sagu dan tepung kenari. Selain dikenal sebagai oleh-oleh khas Papua, kue bagea sagu juga banyak dibuat di Maluku, Sulawesi Utara. Kue manis ini berbahan dasar tepung sagu yang memiliki tekstur sedikit keras ketika digigit.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Udang Selingkuh</h5>
+              <h6 className="mt-0 h4">Papua Pegunungan</h6>
+              <p className="mb-4">
+              Udang Selingkuh merupakan hidangan yang terbuat dari udang segar yang dipadukan dengan bumbu rempah khas Papua. Keunikan dari hidangan ini terletak pada cara pengolahannya. Udang yang digunakan dalam hidangan ini masih utuh, dengan kepala dan kulitnya yang masih ada.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Sagu Sep</h5>
+              <h6 className="mt-0 h4">Papua Selatan</h6>
+              <p className="mb-4">
+              Sagu sep merupakan kuliner tradisional yang khas dari Papua Selatan yang memiliki cita rasa gurih. Sagu Sep adalah hidangan tradisional yang terbuat dari campuran tepung sagu, kelapa, daging, dan rempah-rempah untuk menambah cita rasa.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Sate Ulat Sagu</h5>
+              <h6 className="mt-0 h4">Papua Barat Daya</h6>
+              <p className="mb-4">
+              Sate ulat sagu adalah makanan khas Papua yang berasal dari ulat sagu. Ulat sagu didapatkan dari pohon sagu yang dipotong dan dibiarkan membusuk. Meskipun terlihat menjijikkan, tapi makanan ini kaya akan protein yang cukup tinggi dan cocok dimakan oleh penderita diabetes.
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section></div>
