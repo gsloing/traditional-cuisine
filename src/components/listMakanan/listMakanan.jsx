@@ -1,6 +1,6 @@
 import React from 'react'
 
-const ListMakanan = () => {
+const listMakanan = () => {
   return (
     <div>  <section className="site-section bg-light" id="section-news1">
     <div className="container">
@@ -631,4 +631,4 @@ const ListMakanan = () => {
   )
 }
 
-export default ListMakanan
+export default listMakanan
