@@ -32,18 +32,14 @@ function Header() {
                     About
                   </a>
                 </li>
-
                 <li className="nav-item">
-                  <a href="#section-menu" className="nav-link"></a>
+                  <a href="#section-gallery" className="nav-link">
+                    Gallery
+                  </a>
                 </li>
                 <li className="nav-item">
                   <a href="#section-news" className="nav-link">
                     List Makanan
-                  </a>
-                </li>
-                <li className="nav-item">
-                  <a href="#section-gallery" className="nav-link">
-                    Gallery
                   </a>
                 </li>
               </ul>
@@ -53,7 +49,7 @@ function Header() {
         {/* END nav */}
         <section
           className="site-cover"
-          style={{ backgroundImage: "url(/public/images/bg_3.jpg)" }}
+          style={{ backgroundImage: "url(/public/images/bg_3.jpeg)" }}
           id="section-home"
         >
           <div className="container">
