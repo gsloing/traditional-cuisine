@@ -1,6 +1,6 @@
 import React from 'react'
 
-const gallery = () => {
+const Gallery = () => {
   return (
     <section className="site-section" id="section-gallery">
           <div className="container">
@@ -93,4 +93,4 @@ const gallery = () => {
     )
 }
 
-export default gallery
+export default Gallery

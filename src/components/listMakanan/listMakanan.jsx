@@ -1,8 +1,8 @@
 import React from 'react'
 
-const listMakanan = () => {
+const ListMakanan = () => {
   return (
-    <div>  <section className="site-section bg-light" id="section-news">
+    <div>  <section className="site-section bg-light" id="section-news1">
     <div className="container">
       <div className="row">
         <div className="col-md-12 text-center mb-5 site-animate">
@@ -36,7 +36,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpg"
+              src="\public\images\Food-Picture\Sulawesi\sul3(coto-makassar).jpeg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -68,7 +68,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpg"
+              src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -631,4 +631,4 @@ const listMakanan = () => {
   )
 }
 
-export default listMakanan
+export default ListMakanan
