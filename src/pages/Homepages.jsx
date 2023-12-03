@@ -1,13 +1,19 @@
 
-import gallery from "../components/gallery/gallery";
-import List from "../components/List";
-import listMakanan from "../components/listMakanan/listMakanan";
+import About from "../components/About";
+import Footer from "../components/Footer";
+import Gallery from "../components/gallery/Gallery";
+import Header from "../components/Header";
+
 const Homepages = () => {
   return (
     <div>
-      <gallery/>
+      <Header/>
+      <About/>
+      <Gallery/>
       <List />
-      <listMakanan/>
+      <ListMakanan/>
+      <Footer/>
+
     </div>
   );
 };
