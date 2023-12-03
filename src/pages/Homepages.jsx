@@ -1,13 +1,13 @@
 
-import Gallery from "../components/gallery/Gallery";
+import gallery from "../components/gallery/gallery";
 import List from "../components/List";
-import ListMakanan from "../components/listMakanan/ListMakanan";
+import listMakanan from "../components/listMakanan/listMakanan";
 const Homepages = () => {
   return (
     <div>
-      <Gallery/>
+      <gallery/>
       <List />
-      <ListMakanan/>
+      <listMakanan/>
     </div>
   );
 };

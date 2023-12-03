@@ -1,6 +1,6 @@
 import React from 'react'
 
-const Gallery = () => {
+const gallery = () => {
   return (
     <section className="site-section" id="section-gallery">
           <div className="container">
@@ -113,11 +113,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -125,11 +125,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -137,11 +137,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -149,11 +149,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -189,4 +189,4 @@ const Gallery = () => {
     )
 }
 
-export default Gallery
+export default gallery
