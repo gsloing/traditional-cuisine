@@ -241,7 +241,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Gulai Belacan</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Gulai Belacan berbahan dasar udang yang dicampur dengan rempah-rempah seperti lada, kemiri, asam jawa, santan kelapa dll. Ciri utama dalam masakan tradisional Melayu adalah penggunaan rempah-rempah yang cukup banyak.</p>
                           </div>
                         </div>
                       </div>
@@ -254,7 +254,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Gulai Ikan Patin</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Gulai Patin merupakan masakan khas Jambi dimana masyarakat lokalnya sangat mempopulerkan makanan ini. Gulai ini juga dimasak dengan menggunakan santan kelapa. Bumbu lain yang digunakan dalam pembuatan masakan Gulai Ikan Patin ini adalah cabe merah, lengkuas, serai, kunyit, bawang merah dan bawah putih.</p>
                           </div>
                         </div>
                       </div>
@@ -267,7 +267,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Mie Aceh</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Mie Aceh adalah masakan mie pedas khas Aceh di Indonesia. Mie kuning tebal dengan irisan daging sapi, daging kambing, atau makanan laut (udang dan cumi) disajikan dalam sup sejenis kari yang gurih dan pedas. Mie Aceh tersedia dalam dua jenis, Mie Aceh goreng dan Mie Aceh kuah.</p>
                           </div>
                         </div>
                       </div>
@@ -280,7 +280,9 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Mie Bangka</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Mie Bangka atau dikenal sebagai Bakmi Bangka adalah salah hidangan tradisional masyarakat pulau Bangka.
+
+Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh dari kuliner orang Hakka. Seiring dengan merantaunya orang Bangka ke berbagai daerah, hidangan mie khas Bangka tersebar di banyak daerah Indonesia</p>
                           </div>
                         </div>
                       </div>
@@ -293,7 +295,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Otak Otak</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Otak – otak adalah makanan khas yang sangat digemari oleh masyarakat Kota Pangkalpinang. Biasanya otak – otak disajikan sebagai camilan saat berkumpul bersama keluarga atau temen. Otak-otak dibuat dari ikan yang diambil dagingnya, kemudian dihaluskan dan dibumbui.</p>
                           </div>
                         </div>
                       </div>
@@ -306,7 +308,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Pempek</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Pempek adalah salah satu makanan tradisional asal Palembang provinsi Sumatera Selatan. Makanan ini terbuat dari bahan dasar sagu dan ikan karena di Bangka masyarakatnya mayoritas nelayan dan merupakan provinsi tetangga dari Palembang, oleh karena itu pempek mudah ditemui di kepulauan Bangka Belitung.</p>
                           </div>
                         </div>
                       </div>
@@ -319,7 +321,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Pendap</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Pendap adalah ikan yang diolah dengan bumbu khusus bersama dengan kelapa parut dan dimasak dalam bungkusan daun talas atau daun pisang seperti ikan pepes. Harga satu porsi Pendap ini tergolong murah. Rata-rata harga satu porsinya hanya Rp6.000 sampai Rp10.000, tergantung ukuran.</p>
                           </div>
                         </div>
                       </div>
@@ -332,7 +334,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Rendang</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Rendang adalah masakan daging yang berasal dari Minangkabau Sumatra Barat Indonesia. Proses memasak rendang dengan suhu rendah dalam waktu lama, menggunakan santan dan aneka rempah-rempah khas indonesia yang sedikit pedas sehingga menambah ke khas an dan kelezatannya.</p>
                           </div>
                         </div>
                       </div>
@@ -345,7 +347,7 @@ const List = () => {
                           />
                           <div className="why-text">
                             <h4>Seruit</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Seruit adalah makanan khas daerah Lampung, Indonesia, yaitu masakan ikan yang digoreng atau dibakar dicampur sambal terasi, tempoyak (olahan durian) atau mangga. Jenis ikan adalah besarnya ikan sungai seperti belide, baung, layis dll, ditambah lalapan.</p>
                           </div>
                         </div>
                       </div>
