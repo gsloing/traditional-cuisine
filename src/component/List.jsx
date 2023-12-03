@@ -7,10 +7,9 @@ const List = () => {
             <div className="row">
               <div className="col-lg-12">
                 <div className="heading-title text-center">
-                  <h2>Special Menu</h2>
+                  <h2>List Makanan Per-Daerah</h2>
                   <p>
-                    Lorem Ipsum is simply dummy text of the printing and
-                    typesetting
+                    Berikut ini adalah list makanan dari beberapa daerah.
                   </p>
                 </div>
               </div>
@@ -60,9 +59,9 @@ const List = () => {
                     className="nav-link"
                     id="v-pills-profile-tab"
                     data-toggle="pill"
-                    href="#v-pills-profile"
+                    href="#v-pills-profile1"
                     role="tab"
-                    aria-controls="v-pills-profile"
+                    aria-controls="v-pills-profile1"
                     aria-selected="false"
                   >
                     Kalimantan
@@ -71,9 +70,9 @@ const List = () => {
                     className="nav-link"
                     id="v-pills-profile-tab"
                     data-toggle="pill"
-                    href="#v-pills-profile"
+                    href="#v-pills-profile2"
                     role="tab"
-                    aria-controls="v-pills-profile"
+                    aria-controls="v-pills-profile2"
                     aria-selected="false"
                   >
                     Sulawesi{/*</a*/}
@@ -228,6 +227,7 @@ const List = () => {
                       </div>
                     </div>
                   </div>
+                  {/* Sumatra Start */}
                   <div
                     className="tab-pane fade"
                     id="v-pills-profile"
@@ -377,6 +377,309 @@ const List = () => {
                       </div>
                     </div>
                   </div>
+                  {/* Sumatra End */}
+                  {/* Kalimantan Start */}
+                  <div
+                    className="tab-pane fade"
+                    id="v-pills-profile1"
+                    role="tabpanel"
+                    aria-labelledby="v-pills-profile-tab"
+                  >
+                    <div className="row">
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Bika Ambong</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $7.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\gulai belacan(riau).png"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Gulai Belacan</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $9.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="/public\images\Food-Picture\Sumatra\gulai ikan patin(jambi).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Gulai Ikan Patin</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\Mi aceh(nangroe aceh darusallam).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Mie Aceh</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\mi bangka(bangka belitung).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Mie Bangka</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="public\images\Food-Picture\Sumatra\otak otak(kepulauan riau).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Otak Otak</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\pempek(sumatera selatan).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Pempek</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\pendap(bengkulu).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Pendap</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\rendang(sumatera barat).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Rendang</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\seruit(bandar lampung).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Seruit</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  {/* Kalimantan End */}
+                  {/* Sulawesi Start */}
+                  <div
+                    className="tab-pane fade"
+                    id="v-pills-profile2"
+                    role="tabpanel"
+                    aria-labelledby="v-pills-profile-tab"
+                  >
+                    <div className="row">
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Bika Ambonff</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $7.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\gulai belacan(riau).png"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Gulai Belacan</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $9.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="/public\images\Food-Picture\Sumatra\gulai ikan patin(jambi).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Gulai Ikan Patin</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\Mi aceh(nangroe aceh darusallam).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Mie Aceh</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\mi bangka(bangka belitung).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Mie Bangka</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="public\images\Food-Picture\Sumatra\otak otak(kepulauan riau).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Otak Otak</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\pempek(sumatera selatan).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Pempek</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\pendap(bengkulu).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Pendap</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\rendang(sumatera barat).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Rendang</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div className="col-lg-4 col-md-6 special-grid drinks">
+                        <div className="gallery-single fix">
+                          <img
+                            src="\public\images\Food-Picture\Sumatra\seruit(bandar lampung).jpg"
+                            className="img-fluid"
+                            alt="Image"
+                          />
+                          <div className="why-text">
+                            <h4>Seruit</h4>
+                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <h5> $10.79</h5>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  {/* Sulawesi End */}
                   <div
                     className="tab-pane fade"
                     id="v-pills-messages"
