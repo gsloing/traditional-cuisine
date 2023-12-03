@@ -375,6 +375,30 @@ const gallery = () => {
               />
             </a>
           </div>
+          <div className="col-md-4 site-animate">
+            <a
+              href="/public/images/Food-Picture/Maluku/papeda-maluku.jpg"
+              className="site-thumbnail image-popup"
+            >
+              <img
+                src="/public/images/Food-Picture/Maluku/papeda-maluku.jpg"
+                alt="Free Template by colorlib.com"
+                className="img-fluid"
+              />
+            </a>
+          </div>
+          <div className="col-md-4 site-animate">
+            <a
+              href="/public/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
+              className="site-thumbnail image-popup"
+            >
+              <img
+                src="/public/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
+                alt="Free Template by colorlib.com"
+                className="img-fluid"
+              />
+            </a>
+          </div>
         </div>
       </div>
     </section>
