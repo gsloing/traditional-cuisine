@@ -662,7 +662,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Batagor</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Batagor adalah sajian yang digoreng. Tahu yang digunakan bukan tahu kuning, melainkan tahu putih. Batagor yang sudah digoreng kemudian dipotong atau digunting, dan disiram dengan sambal kacang. Rasa dari sambal kacang cukup bervariasi.</p>
                           </div>
                         </div>
                       </div>
@@ -675,7 +675,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Gudeg</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Seperti yang Sobat Pesona ketahui, Yogyakarta dikenal sebagai kota gudeg. Nah, gudeg itu sendiri merupakan masakan yang berbahan utama nangka muda atau oleh warga lokal disebut gori. Dalam prosesnya, potongan daging nangka ini direbus dengan gula merah dan santan dengan api kecil selama beberapa jam.</p>
                           </div>
                         </div>
                       </div>
@@ -688,7 +688,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Soto Kudus</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Soto Kudus (Hanacaraka: ꦱꦺꦴꦠꦺꦴ​ꦏꦸꦢꦸꦱ꧀) adalah soto yang berasal dari Kudus, Jawa Tengah . Soto kudus, hampir mirip dengan soto Lamongan, soto kudus berisi suwiran ayam dan taoge. Terkadang soto kudus juga menggunakan daging kerbau. Kuahnya lebih bening.</p>
                           </div>
                         </div>
                       </div>
@@ -701,7 +701,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Rawon</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Rawon (Aksara Jawa:ꦫꦮꦺꦴꦤ꧀) adalah masakan khas Indonesia yang berasal dari Kabupaten Ponorogo yang berupa sup daging berkuah hitam dengan campuran bumbu khas yang menggunakan kluwek, Makanan ini telah berusia lebih dari 1.000 tahun. Rawon menyebar keluar Ponorogo karena Ponorogo memiliki peran penting dari masa ke masa, hingga dikenal sebagai masakan khas Jawa Timur (daerah Arekan), masyarakat Jawa Tengah sebelah timur (daerah Surakarta).</p>
                           </div>
                         </div>
                       </div>
@@ -714,7 +714,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Kerak Telor</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Kerak telor adalah makanan asli daerah Jakarta (Betawi), Kuliner khas Betawi ini dipercaya sudah dikenal dan banyak digemari sejak zaman penjajahan Belanda. Meski ketika itu kerak telor diciptakan tanpa sengaja, nyatanya kerak telor menjadi salah satu makanan ikonik yang punya banyak penggemar hingga saat ini.</p>
                           </div>
                         </div>
                       </div>
@@ -727,7 +727,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Kue Jojorong</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Kue jojorong atau jojorong adalah makanan khas suku Banten dari Kabupaten Pandeglang. Makanan ini berbahan dasar tepung beras dan santan kelapa yang bagian dalamnya diberi gula aren. Tempat atau mangkuk kuenya berbentuk persegi dan terbuat dari daun pisang yang setiap ujungnya diikat menggunakan tusuk gigi. Oleh sebab jojorong berbahan dasar santan, kue ini harus langsung disantap ketika disajikan karena mudah basi</p>
                           </div>
                         </div>
                       </div>
