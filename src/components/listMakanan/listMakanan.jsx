@@ -97,9 +97,70 @@ const listMakanan = () => {
             </div>
           </div>
         </div>
-
-
-
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Bika Ambon</h5>
+              <h6 className="mt-0 h4">Sumatera Utara</h6>
+              <p className="mb-4">
+              Bika Ambon adalah kue khas medan yang terbuat dari bahan-bahan seperti tepung tapioka, telur, gula, dan santan. Bika ambon dimasak selama 12 jam agar dapat bertahan dalam kondisi yang terbaik dan sesuai dengan apa yang diinginkan selama empat hari karena setelahnya kue ini menjadi keras.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Pempek</h5>
+              <h6 className="mt-0 h4">Sumatera Selatan</h6>
+              <p className="mb-4">
+              Pempek atau mpek mpek adalah makanan khas Sumatera Selatan yang terkenal sangat enak dan banyak dan sering dijadikan oleh-oleh wisatawan yang berkunjung di Sumatera Selatan. Makanan ini terbuat dari olahan ikan yang dicampur sagu. Makanan ini tentu saja dilengkapi dengan kuah cuko atau cuka yang dibuat dari campuran cuka, gula merah, asam jawa dan cabai.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Sumatra/gulai belacan(riau).png"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Gulai Belacan</h5>
+              <h6 className="mt-0 h4">Riau</h6>
+              <p className="mb-4">
+              Gulai belacan adalah makanan yang terbuat dari campuran udang yang dimasak bersama bumbu dan rempah khas Melayu. Rasanya cenderung pedas dan gurih karena menggunakan tambahan cabai rawit. Makanan satu ini biasanya disajikan pada acara-acara penting seperti pernikahan, peringatan hari-hari besar, hingga resepsi.
+              </p>
+            </div>
+          </div>
+        </div>
+        <div className="col-lg-4 col-md-6 col-sm-6">
+          <div className="media d-block mb-4 text-center site-media site-animate">
+            <img
+              src="/public/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
+              alt="Free Template by colorlib.com"
+              className="img-fluid"
+            />
+            <div className="media-body p-md-5 p-4">
+              <h5 className="mt-0 h4">Gulai Ikan Patin</h5>
+              <h6 className="mt-0 h4">Jambi</h6>
+              <p className="mb-4">
+              Masakan khas daerah Jambi adalah Gulai ikan patin. Masakan yang satu ini memiliki keunikan dari cara memasaknya. Cara memasaknya dicampur dengan daging buah durian yang sudah difermentasi atau biasa disebut dengan tempoyak. Namun terkadang bisa diganti dengan santan. 
+              </p>
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </section></div>
