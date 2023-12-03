@@ -17,11 +17,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href="/public/images/menu_1.jpg"
+                  href="/public/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src="/public/images/menu_1.jpg"
+                    src="/public/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -29,11 +29,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href="/public/images/menu_2.jpg"
+                  href="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src="/public/images/menu_2.jpg"
+                    src="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
