@@ -233,11 +233,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -245,11 +245,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
