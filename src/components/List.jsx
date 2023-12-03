@@ -371,7 +371,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Ayam Cincane</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Ayam cincane adalah ayam kampung yang diolah dengan cara dilumuri bumbu rempah-rempah lalu dibakar hingga matang. Tampilannya menarik karena berkat bumbu rempah, daging ayam jadi warna merah. Rasanya menggoyang lidah. Gurih meresap sampai daging ayam.</p>
                           </div>
                         </div>
                       </div>
@@ -384,7 +384,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Bubur Sambas</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p> Bubur pedas atau bubur sambas merupakan kuliner khas masyarakat Sambas, Pontianak, Kalimantan Barat. Tidak seperti bubur pada umumnya yang dibuat dengan memasak beras hingga lembut. Bubur pedas khas Sambas ini terbuat dari beras yang ditumbuk halus, baru lah kemudian dimasak.</p>
                           </div>
                         </div>
                       </div>
@@ -397,7 +397,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Juhu Umbut Rotan</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Juhu singkah adalah masakan khas masyarakat Dayak di provinsi Kalimantan Tengah, Indonesia. Dalam bahasa Ngaju, juhu artinya masakan berkuah, sedangkan singkah artinya umbut, yang merujuk kepada batang rotan yang masih muda. Umbut rotan biasanya mudah diperoleh di dalam hutan tanpa perlu menanamnya terlebih dahulu.</p>
                           </div>
                         </div>
                       </div>
@@ -410,7 +410,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Sate Temburung</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Bahan dasar sate ini adalah temburung, sejenis hewan laut yang tampilannya mirip dengan kerang. Namun, temburung memiliki cangkang melingkar seperti terompet yang berbeda dengan kerang. Bumbu utama yang digunakan untuk meracik sate temburung terdiri atas berbagai bahan.</p>
                           </div>
                         </div>
                       </div>
@@ -423,7 +423,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Soto Banjar</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Soto Banjar merupakan salah satu kuliner yang terkenal di Indonesia. Berbeda dengan soto lainnya di Indonesia, soto ini memiliki keunikan dalam penyajian dan cita rasanya. Soto Banjar ini menggunakan ayam kampung sebagai bahan utamanya. Bumbu yang di haluskan berupa bawang merah, bawang putih, merica.</p>
                           </div>
                         </div>
                       </div>
@@ -517,7 +517,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Binte Biluhuta</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Binte biluhuta atau dikenal pula dengan nama milu siram merupakan makanan khas masyarakat Gorontalo, Sulawesi, Indonesia. Binde biluhuta berasal dari Bahasa Gorontalo yaitu binte yang berarti "jagung", dan biluhuta artinya "disiram". Sesuai dengan namanya, milu siram adalah makanan berbahan dasar jagung yang disajikan dengan cara disiram dengan kuah. </p>
                           </div>
                         </div>
                       </div>
@@ -530,7 +530,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Kaledo</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Kaledo merupakan singkatan dari Kaki Lembu Donggala, meskipun sekarang ini lebih banyak menggunakan kaki sapi. Kaledo adalah salah satu menu yang sebagian besar cocok untuk semua lidah. Dalam proses pembuatannya, daging melalui perebusan yang panjang, sehingga memiliki tekstur yang lebih empuk.</p>
                           </div>
                         </div>
                       </div>
@@ -543,7 +543,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Kue Jepa</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>SJepa (atau dieja yepa), adalah makanan khas suku Mandar, Sulawesi Barat, berupa lingkaran dalam lembaran tipis. Roti pipih ini dibuat dari bahan singkong dan parutan kelapa. Warnanya putih kecokelatan dengan aroma singkong bakar dan bertekstur seperti roti.</p>
                           </div>
                         </div>
                       </div>
@@ -556,7 +556,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Sate Gogos</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Sate Pokea terdiri dari daging kerang yang diberi bumbu agak pedas manis, biasanya disantap bersama sejenis lemper tanpa isi yang dibakar da dikukus, dikenal dengan nama gogos.</p>
                           </div>
                         </div>
                       </div>
@@ -569,7 +569,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Coto Makassar</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Coto makassar atau Pallu coto mangkasarak adalah hidangan tradisional Suku Makassar, Sulawesi Selatan. Makanan ini terbuat dari jeroan sapi yang direbus dalam waktu yang lama. Rebusan jeroan bercampur daging sapi ini kemudian diiris-iris, lalu dibumbui dengan bumbu yang diracik secara khusus.</p>
                           </div>
                         </div>
                       </div>
@@ -582,7 +582,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Tinutuan (Bubur Manado)</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Tinutuan sering disebut sebagai bubur campur oleh warga asli Sulawesi Utara, karena semua bahan dicampur menjadi satu saat memasaknya, dan ketika disajikan dalam mangkuk atau piring juga tercampur tanpa ada satu bahan yang dipisahkan</p>
                           </div>
                         </div>
                       </div>
@@ -751,7 +751,7 @@ Mie bagi masyarakat Bangka dikenal sebagai mien, mian (麵), merupakan pengaruh 
                           />
                           <div className="why-text">
                             <h4>Ikan Bakar Manokwari</h4>
-                            <p>Sed id magna vitae eros sagittis euismod.</p>
+                            <p>Ikan bakar Manokwari adalah salah satu hidangan khas yang berasal dari daerah Manokwari, Papua Barat, Indonesia. Hidangan ini terkenal karena cara memasak ikan yang digunakan. Caranya adalah dengan dipanggang atau dibakar di atas bara api atau arang.</p>
                           </div>
                         </div>
                       </div>
