@@ -351,6 +351,30 @@ const gallery = () => {
               />
             </a>
           </div>
+          <div className="col-md-4 site-animate">
+            <a
+              href="/public/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
+              className="site-thumbnail image-popup"
+            >
+              <img
+                src="/public/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
+                alt="Free Template by colorlib.com"
+                className="img-fluid"
+              />
+            </a>
+          </div>
+          <div className="col-md-4 site-animate">
+            <a
+              href="/public/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
+              className="site-thumbnail image-popup"
+            >
+              <img
+                src="/public/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
+                alt="Free Template by colorlib.com"
+                className="img-fluid"
+              />
+            </a>
+          </div>
         </div>
       </div>
     </section>
