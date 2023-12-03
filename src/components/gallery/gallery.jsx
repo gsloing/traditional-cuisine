@@ -41,11 +41,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href="/public/images/menu_3.jpg"
+                  href="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src="/public/images/menu_3.jpg"
+                    src="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -53,11 +53,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href="/public/images/menu_2.jpg"
+                  href="/public/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src="/public/images/menu_2.jpg"
+                    src="/public/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -65,11 +65,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href="/public/images/menu_3.jpg"
+                  href="/public/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src="/public/images/menu_3.jpg"
+                    src="/public/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -77,11 +77,11 @@ const Gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href="/public/images/menu_1.jpg"
+                  href="/public/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src="/public/images/menu_1.jpg"
+                    src="/public/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
