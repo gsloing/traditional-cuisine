@@ -293,11 +293,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/ayam taliwang ntb.jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/ayam taliwang ntb.jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -305,11 +305,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -317,11 +317,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
