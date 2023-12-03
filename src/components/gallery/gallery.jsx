@@ -269,11 +269,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/babi guling bali.jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/babi guling bali.jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
@@ -281,11 +281,11 @@ const gallery = () => {
               </div>
               <div className="col-md-4 site-animate">
                 <a
-                  href=""
+                  href="/public/images/Food-Picture/karmanaci ntt.jpg"
                   className="site-thumbnail image-popup"
                 >
                   <img
-                    src=""
+                    src="/public/images/Food-Picture/karmanaci ntt.jpg"
                     alt="Free Template by colorlib.com"
                     className="img-fluid"
                   />
