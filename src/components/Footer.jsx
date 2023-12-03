@@ -40,7 +40,7 @@ const Footer = () => {
                         </li>
                         <li>
                           <a href="https://www.instagram.com/betahkenrick/" className="py-2 d-block">
-                            Kendrick Betah
+                            Kenrick Betah
                           </a>
                         </li>
                         <li>
