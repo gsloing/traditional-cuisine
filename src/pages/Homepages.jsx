@@ -3,7 +3,7 @@ import About from "../components/About";
 import Footer from "../components/Footer";
 import Gallery from "../components/gallery/gallery";
 import Header from "../components/Header";
-import ListMakanan from "../components/listMakanan/ListMakanan";
+import ListMakanan from "../components/listMakanan/listMakanan";
 const Homepages = () => {
   return (
     <div>
