@@ -1,6 +1,6 @@
 import React from 'react'
 
-const listMakanan = () => {
+const ListMakanan = () => {
   return (
     <div>  <section className="site-section bg-light" id="section-news1">
     <div className="container">
@@ -20,7 +20,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
+              src="/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -36,7 +36,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="\public\images\Food-Picture\Sulawesi\sul3(coto-makassar).jpeg"
+              src="\images\Food-Picture\Sulawesi\sul3(coto-makassar).jpeg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -52,7 +52,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
+              src="/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -68,7 +68,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
+              src="/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -84,7 +84,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
+              src="/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -100,7 +100,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+              src="/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -116,7 +116,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
+              src="/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -132,7 +132,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/gulai belacan(riau).png"
+              src="/images/Food-Picture/Sumatra/gulai belacan(riau).png"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -148,7 +148,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/otak otak(kepulauan riau).jpg"
+              src="/images/Food-Picture/Sumatra/otak otak(kepulauan riau).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -164,7 +164,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
+              src="/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -180,7 +180,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
+              src="/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -196,7 +196,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
+              src="/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -212,7 +212,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
+              src="/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -228,7 +228,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
+              src="/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -244,7 +244,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
+              src="/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -260,7 +260,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
+              src="/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -276,7 +276,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
+              src="/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -292,7 +292,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
+              src="/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -308,7 +308,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
+              src="/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -324,7 +324,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
+              src="/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -340,7 +340,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
+              src="/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -356,7 +356,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Jawa/Gudeg jogja.jpg"
+              src="/images/Food-Picture/Jawa/Gudeg jogja.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -372,7 +372,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/babi guling bali.jpg"
+              src="/images/Food-Picture/babi guling bali.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -388,7 +388,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/karmanaci ntt.jpg"
+              src="/images/Food-Picture/karmanaci ntt.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -404,7 +404,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/ayam taliwang ntb.jpg"
+              src="/images/Food-Picture/ayam taliwang ntb.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -420,7 +420,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
+              src="/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -436,7 +436,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
+              src="/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -452,7 +452,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sulawesi/kaledo-sulteng.jpg"
+              src="/images/Food-Picture/Sulawesi/kaledo-sulteng.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -468,7 +468,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sulawesi/tinutuan-sulut.jpg"
+              src="/images/Food-Picture/Sulawesi/tinutuan-sulut.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -484,7 +484,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
+              src="/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -500,7 +500,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
+              src="/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -516,7 +516,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Maluku/papeda-maluku.jpg"
+              src="/images/Food-Picture/Maluku/papeda-maluku.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -532,7 +532,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
+              src="/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -548,7 +548,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Papua/papeda-papua.jpg"
+              src="/images/Food-Picture/Papua/papeda-papua.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -564,7 +564,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
+              src="/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -580,7 +580,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
+              src="/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -596,7 +596,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
+              src="/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -612,7 +612,7 @@ const listMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/public/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
+              src="/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -631,4 +631,4 @@ const listMakanan = () => {
   )
 }
 
-export default listMakanan
+export default ListMakanan

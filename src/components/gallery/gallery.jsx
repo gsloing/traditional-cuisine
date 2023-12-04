@@ -17,11 +17,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
+              href="/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
+                src="/images/Food-Picture/Sumatra/rendang(sumatera barat).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -29,11 +29,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpeg"
+              href="/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpeg"
+                src="/images/Food-Picture/Sulawesi/sul3(coto-makassar).jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -41,11 +41,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
+              href="/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
+                src="/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -53,11 +53,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
+              href="/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
+                src="/images/Food-Picture/Kalimantan/soto banjar(kalimantan selatan).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -65,11 +65,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
+              href="/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
+                src="/images/Food-Picture/Kalimantan/juhu umbut rotan (kalteng).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -77,11 +77,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
+              href="/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
+                src="/images/Food-Picture/Kalimantan/sate temburung (kaltara).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -89,11 +89,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
+              href="/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
+                src="/images/Food-Picture/Jawa/kue jojorong (banten).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -101,11 +101,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
+              href="/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
+                src="/images/Food-Picture/Jawa/kerak-telor(dki).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -113,11 +113,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
+              href="/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
+                src="/images/Food-Picture/Jawa/jawa8 (Rawon).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -125,11 +125,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
+              href="/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
+                src="/images/Food-Picture/Jawa/Jawa1 (Soto Kudus).jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -137,11 +137,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
+              href="/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
+                src="/images/Food-Picture/Jawa/batagor(jawa barat).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -149,11 +149,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+              href="/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
+                src="/images/Food-Picture/Sumatra/Bika ambon (sumatera utara).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -161,11 +161,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
+              href="/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
+                src="/images/Food-Picture/Sumatra/pempek(sumatera selatan).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -173,11 +173,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/gulai belacan(riau).png"
+              href="/images/Food-Picture/Sumatra/gulai belacan(riau).png"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/gulai belacan(riau).png"
+                src="/images/Food-Picture/Sumatra/gulai belacan(riau).png"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -185,11 +185,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
+              href="/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
+                src="/images/Food-Picture/Sumatra/gulai ikan patin(jambi).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -197,11 +197,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
+              href="/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
+                src="/images/Food-Picture/Sumatra/seruit(bandar lampung).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -209,11 +209,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
+              href="/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
+                src="/images/Food-Picture/Sumatra/Mi aceh(nangroe aceh darusallam).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -221,11 +221,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
+              href="/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
+                src="/images/Food-Picture/Sumatra/mi bangka(bangka belitung).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -233,11 +233,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
+              href="/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
+                src="/images/Food-Picture/Sumatra/pendap(bengkulu).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -245,11 +245,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
+              href="/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
+                src="/images/Food-Picture/Kalimantan/bubur sambas(kalimantan barat).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -257,11 +257,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Jawa/Gudeg jogja.jpg"
+              href="/images/Food-Picture/Jawa/Gudeg jogja.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Jawa/Gudeg jogja.jpg"
+                src="/images/Food-Picture/Jawa/Gudeg jogja.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -269,11 +269,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/babi guling bali.jpeg"
+              href="/images/Food-Picture/babi guling bali.jpeg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/babi guling bali.jpeg"
+                src="/images/Food-Picture/babi guling bali.jpeg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -281,11 +281,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/karmanaci ntt.jpg"
+              href="/images/Food-Picture/karmanaci ntt.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/karmanaci ntt.jpg"
+                src="/images/Food-Picture/karmanaci ntt.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -293,11 +293,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/ayam taliwang ntb.jpg"
+              href="/images/Food-Picture/ayam taliwang ntb.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/ayam taliwang ntb.jpg"
+                src="/images/Food-Picture/ayam taliwang ntb.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -305,11 +305,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
+              href="/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
+                src="/images/Food-Picture/Sulawesi/binte-biluhuta (gorontalo).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -317,11 +317,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
+              href="/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
+                src="/images/Food-Picture/Sulawesi/Kue-Jepa (sulbar).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -329,11 +329,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/kaledo-sulteng.jpg"
+              href="/images/Food-Picture/Sulawesi/kaledo-sulteng.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/kaledo-sulteng.jpg"
+                src="/images/Food-Picture/Sulawesi/kaledo-sulteng.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -341,11 +341,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/tinutuan-sulut.jpg"
+              href="/images/Food-Picture/Sulawesi/tinutuan-sulut.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/tinutuan-sulut.jpg"
+                src="/images/Food-Picture/Sulawesi/tinutuan-sulut.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -353,11 +353,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
+              href="/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
+                src="/images/Food-Picture/Sulawesi/sate gogos-sultra.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -365,11 +365,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
+              href="/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
+                src="/images/Food-Picture/Maluku/gohu ikan-maluku utara.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -377,11 +377,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Maluku/papeda-maluku.jpg"
+              href="/images/Food-Picture/Maluku/papeda-maluku.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Maluku/papeda-maluku.jpg"
+                src="/images/Food-Picture/Maluku/papeda-maluku.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -389,11 +389,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
+              href="/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
+                src="/images/Food-Picture/Papua/ikan bakar mnkwr - papua barat.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -401,11 +401,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Papua/papeda-papua.jpg"
+              href="/images/Food-Picture/Papua/papeda-papua.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Papua/papeda-papua.jpg"
+                src="/images/Food-Picture/Papua/papeda-papua.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -413,11 +413,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
+              href="/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
+                src="/images/Food-Picture/Papua/sagu bagea-papua tengah.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -425,11 +425,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
+              href="/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
+                src="/images/Food-Picture/Papua/udang selingkuh-papua pegunungan.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -437,11 +437,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
+              href="/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
+                src="/images/Food-Picture/Papua/sagu sep-papua selatan.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -449,11 +449,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
+              href="/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
+                src="/images/Food-Picture/Papua/sate ulat sagu-sorong.jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />
@@ -461,11 +461,11 @@ const gallery = () => {
           </div>
           <div className="col-md-4 site-animate">
             <a
-              href="/public/images/Food-Picture/Sumatra/otak otak(kepulauan riau).jpg"
+              href="/images/Food-Picture/Sumatra/otak otak(kepulauan riau).jpg"
               className="site-thumbnail image-popup"
             >
               <img
-                src="/public/images/Food-Picture/Sumatra/otak otak(kepulauan riau).jpg"
+                src="/images/Food-Picture/Sumatra/otak otak(kepulauan riau).jpg"
                 alt="Free Template by colorlib.com"
                 className="img-fluid"
               />

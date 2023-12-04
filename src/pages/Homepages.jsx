@@ -3,16 +3,16 @@ import About from "../components/About";
 import Footer from "../components/Footer";
 import Gallery from "../components/gallery/Gallery";
 import Header from "../components/Header";
-
+import ListMakanan from "../components/listMakanan/ListMakanan";
 const Homepages = () => {
   return (
     <div>
       <Header/>
       <About/>
       <Gallery/>
+      <ListMakanan/>
       <List />
       <Footer/>
-
     </div>
   );
 };
