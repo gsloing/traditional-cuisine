@@ -260,7 +260,7 @@ const ListMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpg"
+              src="/images/Food-Picture/Kalimantan/ayam cincane(kalimantan timur).jpeg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
@@ -372,7 +372,7 @@ const ListMakanan = () => {
         <div className="col-lg-4 col-md-6 col-sm-6">
           <div className="media d-block mb-4 text-center site-media site-animate">
             <img
-              src="/images/Food-Picture/babi guling bali.jpg"
+              src="/images/Food-Picture/babi guling bali.jpeg"
               alt="Free Template by colorlib.com"
               className="img-fluid"
             />
